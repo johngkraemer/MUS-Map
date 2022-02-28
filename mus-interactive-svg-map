@@ -80,9 +80,9 @@
 		    case 12:
 			city = 'pittsburgh';
 		    break;
-            case= 13:
-            city = 'cincinnati';
-            break;
+            	    case= 13:
+            		city = 'cincinnati';
+            	    break;
 		    default:
 			city = 'wichita';
 		    break;
@@ -544,6 +544,6 @@
          cy="-185.375"
          cx="611.875"
          id="milwaukee"
-	 	onclick="select('milwaukee', 4)"
+	 onclick="select('milwaukee', 4)"
          />
     </svg>
